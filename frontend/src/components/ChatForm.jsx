@@ -1,3 +1,7 @@
+// Copyright (c) 2025 Shivam Kumar
+// All rights reserved. Unauthorized copying, distribution, or modification is prohibited.
+
+
 import { useRef } from "react";
 
 const ChatForm = ({ chatHistory, setChatHistory, generateBotResponse }) => {
