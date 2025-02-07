@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Shivam Kumar
+# All rights reserved. Unauthorized copying, distribution, or modification is prohibited.
+
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
