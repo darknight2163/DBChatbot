@@ -5,6 +5,8 @@ This project is an AI-powered chatbot that allows users to query a supplier and 
 It retrieves relevant product and supplier details from a MySQL database and summarizes them using **Gemma-2-9b-it** via the **Groq API**.  
 The chatbot is built using **LangGraph** for agent workflows and **FastAPI** for backend communication.  
 
+![chatbot-screen](https://github.com/darknight2163/DBChatbot/blob/main/resource/screen.gif)
+
 ## Features  
 ✅ **Natural Language Querying** – Users can ask about products, suppliers, and categories.  
 ✅ **LLM-Powered Summarization** – Responses are enhanced using **Gemma-2-9b-it**.  
