@@ -1,3 +1,6 @@
+// Copyright (c) 2025 Shivam Kumar
+// All rights reserved. Unauthorized copying, distribution, or modification is prohibited.
+
 import { useEffect, useState, useRef } from "react";
 import ChatbotIcon from "./components/ChatbotIcon";
 import ChatForm from "./components/ChatForm";
