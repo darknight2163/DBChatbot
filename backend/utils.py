@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Shivam Kumar
+# All rights reserved. Unauthorized copying, distribution, or modification is prohibited.
+
 # utils.py
 import sqlite3
 import os
